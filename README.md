@@ -1,5 +1,5 @@
-Games with using Python3! 
-Including: 
--TicTacToe 
--Maze Solver 
--Mini Scrabble 
+Games with using Python3!\
+Including:\
+-TicTacToe\
+-Maze Solver\
+-Mini Scrabble
