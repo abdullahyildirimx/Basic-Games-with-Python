@@ -178,7 +178,7 @@ while winner1==0 and winner2==0:
     else:
         board[player2]="O"
     boardprinter(board)
-    winner2=wincondition1(board)
+    winner2=wincondition2(board)
     if winner2==1:
         print("Winner: O")
         break
